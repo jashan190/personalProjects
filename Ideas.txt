@@ -1,0 +1,9 @@
+Ideas for personal Projects:
+
+Make a scripting projects for students that allows you to clean up your your pc by cleaning up temp files etc. Use python etc
+
+Make a financial application using backend+frontend development(continuation of our hackathon project)
+
+Make a muslim notification sytem to notify you that it is time to pray on your pc.
+
+Maybe student study planner? 
